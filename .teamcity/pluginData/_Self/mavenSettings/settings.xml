@@ -1,0 +1,9 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.2.0">
+  <servers>
+    <server>
+      <id>nexus</id>
+      <username>admin</username>
+      <password>8f3c5df8-0aa7-4f15-b5d6-e05d8af4d0a5</password>
+    </server>
+  </servers>
+</settings>
